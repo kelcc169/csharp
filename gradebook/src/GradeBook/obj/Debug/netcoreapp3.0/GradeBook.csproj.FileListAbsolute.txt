@@ -1,0 +1,11 @@
+/Users/kelseycox/code/csharp/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook
+/Users/kelseycox/code/csharp/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.deps.json
+/Users/kelseycox/code/csharp/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.runtimeconfig.json
+/Users/kelseycox/code/csharp/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.runtimeconfig.dev.json
+/Users/kelseycox/code/csharp/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.dll
+/Users/kelseycox/code/csharp/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.pdb
+/Users/kelseycox/code/csharp/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.csprojAssemblyReference.cache
+/Users/kelseycox/code/csharp/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.AssemblyInfoInputs.cache
+/Users/kelseycox/code/csharp/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.AssemblyInfo.cs
+/Users/kelseycox/code/csharp/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.dll
+/Users/kelseycox/code/csharp/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.pdb
